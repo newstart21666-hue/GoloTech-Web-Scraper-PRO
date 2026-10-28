@@ -21,7 +21,17 @@ GoloTech Web Scraper PRO is a Python-based desktop application designed to simpl
 
 ## Screenshots
 
-Application screenshots and sample outputs will be added here.
+
+## Screenshots
+
+### Application Interface
+![GoloTech Web Scraper PRO Interface](screenshots/main-interface.png)
+
+### Sample Extraction Results
+![GoloTech Web Scraper PRO Excel Output](screenshots/extraction-result.png)
+
+*Demonstration using publicly available sample data from books.toscrape.com.*
+
 
 ## Project Status
 
